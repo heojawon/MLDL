@@ -1,0 +1,70 @@
+# --- 기본 파이썬 유틸리티 ---
+numpy
+scipy
+pandas
+scikit-learn
+joblib
+
+# --- 딥러닝 프레임워크 ---
+tensorflow
+torch
+torchvision
+torchaudio
+keras
+jax
+flax
+dm-haiku
+mxnet
+
+# --- 데이터 처리 / 전처리 ---
+opencv-python
+Pillow
+scikit-image
+nltk
+spacy
+gensim
+tqdm
+
+# --- 데이터 시각화 ---
+matplotlib
+seaborn
+plotly
+bokeh
+altair
+
+# --- 강화학습/시뮬레이션 ---
+gym
+stable-baselines3
+
+# --- 분산/대규모 학습 ---
+dask
+horovod
+
+# --- 모델 해석/설명 ---
+shap
+lime
+captum
+
+# --- 모델 최적화/AutoML ---
+optuna
+hyperopt
+
+# --- 데이터셋/데이터 파이프라인 ---
+datasets
+tensorflow-datasets
+torchtext
+huggingface-hub
+
+# --- 배포/서빙 ---
+flask
+fastapi
+uvicorn
+onnx
+onnxruntime
+gradio
+streamlit
+
+# --- 기타 유틸 ---
+h5py
+pyyaml
+jsonschema
