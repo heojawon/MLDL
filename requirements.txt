@@ -54,6 +54,7 @@ datasets
 tensorflow-datasets
 torchtext
 huggingface-hub
+tiktoken
 
 # --- 배포/서빙 ---
 flask
